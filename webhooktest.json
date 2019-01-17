@@ -6,7 +6,7 @@
     "pull_request"
   ],
   "config": {
-    "url": "https://github.com/sajinasudarsanan/sajinastest.com/web",
+    "url": "https://github.com/sajinasudarsanan/sajinastest.com/webhooktest",
     "content_type": "json"
   }
 }

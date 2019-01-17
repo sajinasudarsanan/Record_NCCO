@@ -1,0 +1,14 @@
+ [{
+                "action": "talk",
+                "text": "Hello, this is the prompt one"
+            },
+            {
+                "action": "record",
+                "eventUrl": ["https://postb.in/BrpW5ZB3"],
+                "endOnSilence": 3,
+                "beepStart": true
+            },
+            {
+                "action": "talk",
+                "text": "Hello, this is the prompt two"
+            }]
